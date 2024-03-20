@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.App_color_container {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  border: 2px solid black;
+}
